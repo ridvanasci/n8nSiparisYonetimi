@@ -1,0 +1,32 @@
+{
+  "gitSyncId": "6814c687051d1b4c3c84c486_2bbd1aa0-85fa-4000-ac22-5df06c7f5d98",
+  "unpublishedPage": {
+    "isHidden": false,
+    "layouts": [
+      {
+        "dsl": {
+          "backgroundColor": "none",
+          "bottomRow": 380,
+          "canExtend": true,
+          "containerStyle": "none",
+          "detachFromLayout": true,
+          "dynamicBindingPathList": [],
+          "leftColumn": 0,
+          "minHeight": 510,
+          "parentColumnSpace": 1,
+          "parentRowSpace": 1,
+          "rightColumn": 1224,
+          "snapColumns": 64,
+          "snapRows": 49,
+          "topRow": 0,
+          "type": "CANVAS_WIDGET",
+          "version": 95,
+          "widgetId": "0",
+          "widgetName": "MainContainer"
+        }
+      }
+    ],
+    "name": "Sipariş Ver Copy",
+    "slug": "siparis-ver-copy"
+  }
+}

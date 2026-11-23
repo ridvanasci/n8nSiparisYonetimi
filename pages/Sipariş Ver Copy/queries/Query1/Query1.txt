@@ -1,0 +1,9 @@
+INSERT INTO siparisler (tarih, musteri, kanal, hizmet, tutar, durum)
+VALUES (
+  '{{ moment().format("DD.MM.YYYY HH:mm:ss") }}',
+  '{{ InputMusteri.text }}',
+  'Appsmith Panel',
+  '{{ InputHizmet.text }}',
+  {{ Number(InputTutar.text) || 0 }},
+  'Bekliyor'
+);

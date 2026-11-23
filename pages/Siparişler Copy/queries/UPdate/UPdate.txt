@@ -1,0 +1,3 @@
+UPDATE siparisler
+SET durum = '{{ Table1.updatedRow.durum }}'
+WHERE id = {{ Table1.updatedRow.id }};

@@ -1,0 +1,2 @@
+
+SELECT * FROM siparisler ORDER BY id DESC;

@@ -1,0 +1,6 @@
+{
+  "Musteri": "{{InputMusteri.text}}",
+  "Kanal": "Appsmith Panel",
+  "Hizmet": "{{InputHizmet.text}}",
+  "Tutar": "{{InputTutar.text}}"
+}
