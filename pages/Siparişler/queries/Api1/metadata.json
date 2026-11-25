@@ -1,5 +1,5 @@
 {
-  "gitSyncId": "6814c687051d1b4c3c84c486_45e24304-3410-43c5-a985-8b4b7e4a0f21",
+  "gitSyncId": "6814c687051d1b4c3c84c486_46ffe2b0-5a2e-45ea-abac-2e788db4ac8f",
   "id": "Siparişler_Api1",
   "pluginId": "restapi-plugin",
   "pluginType": "API",
@@ -35,7 +35,7 @@
     "dynamicBindingPathList": [],
     "name": "Api1",
     "pageId": "Siparişler",
-    "runBehaviour": "AUTOMATIC",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

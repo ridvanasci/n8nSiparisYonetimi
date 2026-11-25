@@ -18,19 +18,19 @@
   "icon": "bitcoin",
   "pages": [
     {
-      "id": "Siparişler",
+      "id": "SiparişlerLocalPC",
       "isDefault": true
     },
     {
+      "id": "Sipariş VerLocalPC",
+      "isDefault": false
+    },
+    {
+      "id": "Siparişler",
+      "isDefault": false
+    },
+    {
       "id": "Sipariş Ver",
-      "isDefault": false
-    },
-    {
-      "id": "Siparişler Copy",
-      "isDefault": false
-    },
-    {
-      "id": "Sipariş Ver Copy",
       "isDefault": false
     },
     {
